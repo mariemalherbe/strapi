@@ -18,7 +18,7 @@ const router = new VueRouter({
   routes: [
     {
       path: "/",
-      components: require("./containers/Articles.vue")
+      components: require("./containers/Homes.vue")
     },
     {
       path: "/article/:id",

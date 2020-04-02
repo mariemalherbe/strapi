@@ -1,0 +1,17 @@
+{
+  "info": {
+    "name": "footer",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "footer_title": {
+      "type": "string"
+    },
+    "article": {
+      "model": "article"
+    }
+  },
+  "connection": "default",
+  "collectionName": "components_header_footer_footers"
+}

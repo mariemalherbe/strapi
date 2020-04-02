@@ -1,0 +1,17 @@
+{
+  "connection": "default",
+  "collectionName": "components_header_footer_headers",
+  "info": {
+    "name": "header",
+    "icon": "angle-up"
+  },
+  "options": {},
+  "attributes": {
+    "header_title": {
+      "type": "string"
+    },
+    "header_description": {
+      "type": "richtext"
+    }
+  }
+}

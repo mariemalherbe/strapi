@@ -1,0 +1,23 @@
+{
+  "connection": "default",
+  "collectionName": "homes",
+  "info": {
+    "name": "home"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "skills": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.section-icon-text"
+    },
+    "header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "header-footer.header"
+    }
+  }
+}
